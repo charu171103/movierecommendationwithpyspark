@@ -12,7 +12,7 @@ The MovieLens dataset used for this project is obtained from the Kaggle dataset 
 
 Install the necessary dependencies including PySpark.
 
-pip install pyspark
+>>pip install pyspark
 
 Run the provided code in a PySpark environment. Make sure to replace the paths to the dataset files accordingly.
 
